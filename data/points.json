@@ -1,0 +1,20 @@
+{
+	"1": {
+		"lat": 57.353962,
+		"lng": 18.579381,
+		"title": "Gotland",
+		"description": "Bałtycka wyspa"
+	},
+	"2": {
+		"lat": 53.022222,
+		"lng": 18.611111,
+		"title": "Toruń",
+		"description": "Miasto Kopernika"
+	},
+	"30": {
+		"lat": 42.009720,
+		"lng": 21.431747,
+		"title": "Skopje",
+		"description": "Go ICT!"
+	}
+}
