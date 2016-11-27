@@ -1,0 +1,15 @@
+extends ../layout
+
+block body
+	h1 Formularz dodawania punktu do mapy
+	form(action='/api/mapPoint/add' method='GET')
+		p
+			input(type='text' name='title', placeholder='Nazwa punktu')
+		p
+			textarea(name='description', placeholder='Opis punktu')
+		p
+			input(type='text' name='lat', placeholder='Szerokość geograficzna')
+		p
+			input(type='text' name='lng', placeholder='Długość geograficzna')
+		p
+			button(type='submit') Ślij to!
